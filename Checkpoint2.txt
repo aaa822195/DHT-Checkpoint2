@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import time
 import sys
-import http.client as http
+import httplib as http
 import urllib
 import json
 import Adafruit_DHT
